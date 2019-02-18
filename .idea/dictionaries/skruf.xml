@@ -1,0 +1,35 @@
+<component name="ProjectDictionaryState">
+  <dictionary name="skruf">
+    <words>
+      <w>addperm</w>
+      <w>addpermission</w>
+      <w>clearinv</w>
+      <w>deletepermission</w>
+      <w>delperm</w>
+      <w>deserialized</w>
+      <w>gamemode</w>
+      <w>gson</w>
+      <w>hideplayer</w>
+      <w>listpermissions</w>
+      <w>listperms</w>
+      <w>mojang</w>
+      <w>setcolor</w>
+      <w>setmaxslots</w>
+      <w>setprefix</w>
+      <w>setslots</w>
+      <w>setspawn</w>
+      <w>setsuffix</w>
+      <w>setweight</w>
+      <w>setworldspawn</w>
+      <w>showplayer</w>
+      <w>teleported</w>
+      <w>unblacklisted</w>
+      <w>uninherit</w>
+      <w>uninherited</w>
+      <w>unmuted</w>
+      <w>uuids</w>
+      <w>worldspawn</w>
+      <w>zoot</w>
+    </words>
+  </dictionary>
+</component>
